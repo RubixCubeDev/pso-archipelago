@@ -164,6 +164,16 @@ discord service.
   at a different difficulty, but we'd have to make specific 
   considerations for what "starting equipment" would look like
   at that level. (Low Priority)
+- Make it difficult / impossible to mix up non-AP and AP saves
+  - If we could simply make the AP save files incompatible,
+  that's probably the ideal scenario, so no one accidentally
+  overwrites a local game with hundreds of hours or releases
+  early by loading a save that has all the Normal mode flags
+- Prevent Online play
+  - At the moment, this APWorld is focused on Offline play
+  - It's not impossible that some day we might have online
+  functionality, but despite the name of the game, online
+  play is not a focus for this.
 
 ---
 
