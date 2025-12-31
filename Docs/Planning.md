@@ -33,11 +33,12 @@ discord service.
 
 ### Current Features (0.0.0)
 
-- Nothing, yet!
+- Basic APWorld functionality
 
 ### Planned Features
 
-- Getting a functional APWorld to start development from
+- Client
+- Patcher
 - Episode 1 Support
 
 ### Brainstorming
@@ -73,6 +74,7 @@ discord service.
   - Would quests potentially have their own randomized loot pool?
 - Rico-sanity
   - Each capsule from Red Ring Rico would reward a check
+  - 'Unlocking' each pod (like when clearing a room) may be an option
 - Crate-sanity
   - Either maps locked to specific variations at generation time
   or multiple / all variants are available and have unique
@@ -174,6 +176,9 @@ discord service.
   - It's not impossible that some day we might have online
   functionality, but despite the name of the game, online
   play is not a focus for this.
+- Quality of Life
+  - Forest / Cave enemy parity with Online mode
+  - Other QoL patches similar to [those found online](https://psopalace.sylverant.net/downloads_gamecube.html)
 
 ---
 
